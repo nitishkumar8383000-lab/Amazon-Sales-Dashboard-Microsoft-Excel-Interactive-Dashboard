@@ -36,3 +36,6 @@ The dashboard helps analyze sales trends, customer behavior, product performance
 - Data Cleaning
 - Data Visualization
 - Dashboard Design
+
+## Dashboard
+<img width="1920" height="1080" alt="Screenshot 2026-07-19 132832" src="https://github.com/user-attachments/assets/8b122069-7e89-4a4e-9b85-77443fb82577" />
