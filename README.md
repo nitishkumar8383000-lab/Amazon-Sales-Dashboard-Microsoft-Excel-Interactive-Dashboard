@@ -71,3 +71,9 @@ The dashboard helps analyze sales trends, customer behavior, product performance
 Nitish Kumar
 
 Excel | Data Analyst | Dashboard Developer
+
+## License
+
+This project is available for learning and portfolio purposes.
+
+⭐ If you find this project useful, consider giving it a Star!
