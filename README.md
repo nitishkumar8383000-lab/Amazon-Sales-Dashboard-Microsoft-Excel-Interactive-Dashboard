@@ -21,5 +21,5 @@ The dashboard helps analyze sales trends, customer behavior, product performance
 -🏆 Top 10 Best-Selling Products
 -🌍 Country-wise Sales Analysis
 -💳 Payment Method Distribution
-📋 Order Status Distribution
-🎯 Professional Dashboard Design
+-📋 Order Status Distribution
+-🎯 Professional Dashboard Design
