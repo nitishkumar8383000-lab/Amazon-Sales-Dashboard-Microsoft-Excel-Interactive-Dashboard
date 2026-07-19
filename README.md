@@ -7,18 +7,18 @@ The dashboard helps analyze sales trends, customer behavior, product performance
 
 ## Features
 ## -📈 Monthly Sales Trend Analysis
-# -💰 Total Revenue KPI
--🛒 Total Orders
--👥 Total Customers
--📊 Average Order Value (AOV)
--❌ Cancellation Rate
--🔄 Return Rate
--📦 Sales by Category
--🏆 Top 10 Best-Selling Products
--🌍 Country-wise Sales Analysis
--💳 Payment Method Distribution
--📋 Order Status Distribution
--🎯 Professional Dashboard Design
+## -💰 Total Revenue KPI
+## -🛒 Total Orders
+## -👥 Total Customers
+## -📊 Average Order Value (AOV)
+## -❌ Cancellation Rate
+## -🔄 Return Rate
+## -📦 Sales by Category
+## -🏆 Top 10 Best-Selling Products
+## -🌍 Country-wise Sales Analysis
+## -💳 Payment Method Distribution
+## -📋 Order Status Distribution
+## -🎯 Professional Dashboard Design
 
 ## Tools Used
 -Microsoft Excel
