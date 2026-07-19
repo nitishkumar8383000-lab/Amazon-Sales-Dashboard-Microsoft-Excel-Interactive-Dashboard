@@ -7,7 +7,7 @@ The dashboard helps analyze sales trends, customer behavior, product performance
 
 ## Features
 ## -📈 Monthly Sales Trend Analysis
--💰 Total Revenue KPI
+# -💰 Total Revenue KPI
 -🛒 Total Orders
 -👥 Total Customers
 -📊 Average Order Value (AOV)
