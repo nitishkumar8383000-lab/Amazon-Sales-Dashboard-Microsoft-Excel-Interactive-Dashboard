@@ -21,8 +21,7 @@ The dashboard helps analyze sales trends, customer behavior, product performance
 ## -🎯 Professional Dashboard Design
 
 ## Tools Used
-
--Microsoft Excel
+##-Microsoft Excel
 -Pivot Tables
 -Pivot Charts
 -Excel Formulas
