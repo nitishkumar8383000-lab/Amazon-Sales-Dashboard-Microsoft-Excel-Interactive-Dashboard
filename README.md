@@ -6,7 +6,7 @@ This project is an interactive Amazon Sales Dashboard built in Microsoft Excel. 
 The dashboard helps analyze sales trends, customer behavior, product performance, payment methods, and country-wise sales, making it a valuable reporting tool for business analysis.
 
 ## Dataset used
-- <a href="https://github.com/nitishkumar8383000-lab/Amazon-Sales-Dashboard-Microsoft-Excel-Interactive-Dashboard/blob/main/Amazon%20Data%20Set%202023%20-%202024.xlsx">Dataset<\a>
+- <a href="https://github.com/nitishkumar8383000-lab/Amazon-Sales-Dashboard-Microsoft-Excel-Interactive-Dashboard/blob/main/Amazon%20Data%20Set%202023%20-%202024.xlsx">Dataset</a>
 
 
 ## Features
