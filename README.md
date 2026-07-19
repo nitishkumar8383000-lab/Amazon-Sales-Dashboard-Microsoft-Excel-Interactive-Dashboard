@@ -5,20 +5,20 @@ This project is an interactive Amazon Sales Dashboard built in Microsoft Excel. 
 
 The dashboard helps analyze sales trends, customer behavior, product performance, payment methods, and country-wise sales, making it a valuable reporting tool for business analysis.
 
-Features
-📈 Monthly Sales Trend Analysis
-💰 Total Revenue KPI
-🛒 Total Orders
-👥 Total Customers
-📊 Average Order Value (AOV)
-❌ Cancellation Rate
-🔄 Return Rate
-📦 Sales by Category
-🏆 Top 10 Best-Selling Products
-🌍 Country-wise Sales Analysis
-💳 Payment Method Distribution
-📋 Order Status Distribution
-🎯 Professional Dashboard Design
+## Features
+-📈 Monthly Sales Trend Analysis
+-💰 Total Revenue KPI
+-🛒 Total Orders
+-👥 Total Customers
+-📊 Average Order Value (AOV)
+-❌ Cancellation Rate
+-🔄 Return Rate
+-📦 Sales by Category
+-🏆 Top 10 Best-Selling Products
+-🌍 Country-wise Sales Analysis
+-💳 Payment Method Distribution
+-📋 Order Status Distribution
+-🎯 Professional Dashboard Design
 
 ## Tools Used
 -Microsoft Excel
