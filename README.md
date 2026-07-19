@@ -21,11 +21,11 @@ The dashboard helps analyze sales trends, customer behavior, product performance
 ## -🎯 Professional Dashboard Design
 
 ## Tools Used
-##-Microsoft Excel
--Pivot Tables
--Pivot Charts
--Excel Formulas
--Conditional Formatting
--Data Cleaning
--Data Visualization
--Dashboard Design
+## -Microsoft Excel
+## -Pivot Tables
+## -Pivot Charts
+## -Excel Formulas
+## -Conditional Formatting
+## -Data Cleaning
+## -Data Visualization
+## -Dashboard Design
