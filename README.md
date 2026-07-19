@@ -10,19 +10,19 @@ The dashboard helps analyze sales trends, customer behavior, product performance
 
 
 ## Features
-📈 Monthly Sales Trend Analysis
-💰 Total Revenue KPI
-🛒 Total Orders
-👥 Total Customers
-📊 Average Order Value (AOV)
-❌ Cancellation Rate
-🔄 Return Rate
-📦 Sales by Category
-🏆 Top 10 Best-Selling Products
-🌍 Country-wise Sales Analysis
-💳 Payment Method Distribution
-📋 Order Status Distribution
-🎯 Professional Dashboard Design
+- 📈 Monthly Sales Trend Analysis
+- 💰 Total Revenue KPI
+- 🛒 Total Orders
+- 👥 Total Customers
+- 📊 Average Order Value (AOV)
+- ❌ Cancellation Rate
+- 🔄 Return Rate
+- 📦 Sales by Category
+- 🏆 Top 10 Best-Selling Products
+- 🌍 Country-wise Sales Analysis
+- 💳 Payment Method Distribution
+- 📋 Order Status Distribution
+- 🎯 Professional Dashboard Design
 
 - Dashboard Interaction <a href="https://github.com/nitishkumar8383000-lab/Amazon-Sales-Dashboard-Microsoft-Excel-Interactive-Dashboard/blob/main/Screenshot%202026-07-19%20132832.png">View Dashboard</a>
 
